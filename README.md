@@ -1,6 +1,8 @@
 # SpotifyAutoBillboardPlaylist
 This project is implement web-scraping and using spotipy library
 
+the billboard url: https://www.billboard.com/charts/hot-100/
+
 1. In order to create a playlist in Spotify you must have an account with Spotify. If you don't already have an account, you can sign up for a free one here: http://spotify.com/signup/
 
 2. Once you've signed up/ signed in, go to the developer dashboard and create a new Spotify App:
